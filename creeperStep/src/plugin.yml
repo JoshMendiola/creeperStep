@@ -1,0 +1,5 @@
+name: creeperStep
+author: PhilosophyWithJosh
+version: 1.2
+main: me.PhilosophyWithJosh.creeperStep.Main
+description: spawns creeper whenever player steps on dirt
